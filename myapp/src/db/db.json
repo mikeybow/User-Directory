@@ -1,0 +1,26 @@
+[
+    {
+        "id": 293,
+        "firstName": "Bob",
+        "lastName": "Builder",
+        "department": "Contruction"
+    },
+    {
+        "id": 965,
+        "firstName": "Sarah",
+        "lastName": "River",
+        "department": "Sales"
+    },
+    {
+        "id": 930,
+        "firstName": "Alex",
+        "lastName": "Snow",
+        "department": "Management"
+    },
+    {
+        "id": 938,
+        "firstName": "Alice",
+        "lastName": "Block",
+        "department": "Lead Manager"
+    }
+]
